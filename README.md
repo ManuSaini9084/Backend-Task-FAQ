@@ -2,11 +2,11 @@
 
 **🚀 Project Overview**
 
-This project is a Django-based FAQ Management System that supports multilingual translations, a WYSIWYG editor, and REST API for efficient FAQ retrieval. It also includes caching with Redis for performance improvement.
+This project is a Nodejs-based FAQ Management System that supports multilingual translations, a WYSIWYG editor, and REST API for efficient FAQ retrieval. It also includes caching with Redis for performance improvement.
 
 **📌 Features**
 
-**Django Model for FAQs**
+**Nodejs Model for FAQs**
 
 • WYSIWYG Editor (django-ckeditor) for rich text formatting
 
