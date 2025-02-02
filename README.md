@@ -91,15 +91,15 @@ python manage.py runserver
 
 📖 Fetch FAQs (Default: English)
 
-# GET /api/faqs/
+ GET /api/faqs/
 
 🌍 Fetch FAQs in Hindi
 
-# GET /api/faqs/?lang=hi
+ GET /api/faqs/?lang=hi
 
 🏴 Fetch FAQs in Bengali
 
-# GET /api/faqs/?lang=bn
+ GET /api/faqs/?lang=bn
 
 # 🏗️ Deployment with Docker
 
