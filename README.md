@@ -24,17 +24,23 @@ This project is a Django-based FAQ Management System that supports multilingual 
 
 ##   Frontend Screenshots
 
+# English Language FAQs
+
 ![Screenshot 2025-02-02 213002](https://github.com/user-attachments/assets/0ca33693-8501-4c94-8d95-b373df5c1f07)
 
+# Hindi Language FAQs
 
 ![Screenshot 2025-02-02 213018](https://github.com/user-attachments/assets/603eb9fe-dfa2-4210-829f-0b0dd95df0a1)
 
+# Spanish Language FAQs
 
 ![Screenshot 2025-02-02 213035](https://github.com/user-attachments/assets/a5d07318-881e-4224-8472-ddf465f40a95)
 
-## Backend Screenshots 
+# Bengali Language FAQs
 
 ![Screenshot 2025-02-02 213117](https://github.com/user-attachments/assets/e910a707-4c22-4da8-bfc1-ae4048884cbb)
+
+## Backend Screenshots 
 
 ![Screenshot 2025-02-02 173845](https://github.com/user-attachments/assets/dd170c65-875e-488e-8cb9-de1dc0a280af)
 
